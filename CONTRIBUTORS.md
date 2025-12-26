@@ -49,3 +49,6 @@ This project exists because of your time, effort, and curiosity.
 - **GitHub:** https://github.com/sshekhar563
 - **About:** Third year B.Tech student in Computer Science (AI & ML) with a strong interest in machine learning, computer vision, and open-source development.
 
+- **Name:** Ronak Goyal  
+  **GitHub:** https://github.com/ronakgoyal1  
+  **About:** A curious developer interested in backend systems and open-source collaboration.
