@@ -45,14 +45,19 @@ This project exists because of your time, effort, and curiosity.
 - **GitHub:** https://github.com/gaurav9479
 - **About:** I am gaurav B.Tech Materials Engineering MNNIT Allahabad i am trying to learn open source contribuion in OPENCODE-25
 
+- **Name:** Mani kanta Potla 
+- **GitHub:** https://github.com/MANI8148
+- **About:** I am just interested in this project 
+
 - **Name:** Siddhant Shekhar
 - **GitHub:** https://github.com/sshekhar563
 - **About:** Third year B.Tech student in Computer Science (AI & ML) with a strong interest in machine learning, computer vision, and open-source development.
 
 - **Name:** Ronak Goyal  
-  **GitHub:** https://github.com/ronakgoyal1  
-  **About:** A curious developer interested in backend systems and open-source collaboration.
-- - **Name:** Jatin
+- **GitHub:** https://github.com/ronakgoyal1  
+- **About:** A curious developer interested in backend systems and open-source collaboration.
+
+- **Name:** Jatin
 - **GitHub:** https://github.com/thenix09
 - **About:** First-year student at IIIT Allahabad, interested in software engineering and open-source contributions.
 
