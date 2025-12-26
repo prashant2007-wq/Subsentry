@@ -34,6 +34,11 @@ This project exists because of your time, effort, and curiosity.
 
 - **Name:** Aditya Shirsatrao
 - **GitHub:** https://github.com/adityashirsatrao007
+- **About:** I pretend I know Java, Spring Boot, and React. The compiler, debugger, and bugs tell a different story ;)
+
+- **Name:** Harshvardhan Bansal
+- **GitHub:** https://github.com/HARSH4885-svg
+- **About:** I am highlyinterested in chess and CP.
 - **About:** I pretend I know Java, Spring Boot, and React. The compiler, debugger, and bugs tell a different story.
 
 - **Name:** Gaurav Prajapati
