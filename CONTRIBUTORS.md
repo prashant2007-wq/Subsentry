@@ -121,3 +121,7 @@ This project exists because of your time, effort, and curiosity.
 - **Name:** Yuvaraj Ragothaman
 - **GitHub:** https://github.com/LevelSilence
 - **About:** Sophomore @IIITA
+
+- - **Name:** Aiyaan Mahajan 
+  **GitHub:** https://github.com/Aiyaan-Mahajan
+  **About:** Word Life 🤘🏻
