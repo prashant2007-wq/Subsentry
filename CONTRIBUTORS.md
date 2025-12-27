@@ -125,3 +125,7 @@ This project exists because of your time, effort, and curiosity.
 - **Name:** Aman Sharma
 - **GitHub:** https://github.com/amansharma264
 - **About:** Third-year B.Tech student in ETE. Passionate about Backend development.
+
+- **Name:** Sanchita Anil Agte
+  **GitHub:** https://github.com/san-dae 
+  **About:** chronically online, new to WebD
