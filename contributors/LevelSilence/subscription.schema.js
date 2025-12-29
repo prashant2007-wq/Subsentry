@@ -30,6 +30,11 @@ const SubscriptionSchema = new mongoose.Schema(
       default: "active",
     },
 
+    isTrial: {
+      type: Boolean,
+      default: false,
+    },
+
     trialEndsAt: {
       type: Date,
     },
@@ -54,4 +59,4 @@ const SubscriptionSchema = new mongoose.Schema(
   }
 );
 
-module.exports = SubscriptionSchema;
+module.exports = mongoose.model("Subscription", SubscriptionSchema);
