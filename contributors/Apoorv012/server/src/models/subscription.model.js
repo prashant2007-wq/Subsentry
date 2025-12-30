@@ -41,15 +41,15 @@ const subscriptionSchema = new Schema(
 
     source: {
       type: String,
-      enum: ["web", "mobile", "admin", "promo"],
-      required: true,
+      enum: ["manual", "gmail", "other"],
+      default: "manual",
     },
   },
   { timestamps: true }
 );
 
 
-subscriptionSchema.index({ userClerkId: 1 });
+subscriptionSchema.index({ userId: 1 });
 
 const Subscription = mongoose.model('Subscription', subscriptionSchema);
 
